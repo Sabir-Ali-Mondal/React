@@ -1,11 +1,12 @@
 
-
+import Chai from "./Chai.js";
 
 function App() {
   return (
-    <div className="App">
+    <>
+      <Chai/>
       <h1>Hello World | Sabir </h1>
-    </div>
+    </>
   );
 }
 
